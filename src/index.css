@@ -76,7 +76,9 @@ body{
 
  
 }
-
+.input-box{
+  display: flex;
+}
 /* CSS */
 .button-37 {
   background-color: #13aa52;
